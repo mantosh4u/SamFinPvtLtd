@@ -1,7 +1,4 @@
 # SamFinPvtLtd
-
-**Project Summary**
-
 I have designed and implemented from scratch the complete automated stock (equity) market-based system in Python. The
 project long term view is to provide open-source alternative of existing propriety/paid brokerage reports/analytics. The
 complete system is designed in modularized way so that it can be used to achieve all types of the requirements. Also, it can be
